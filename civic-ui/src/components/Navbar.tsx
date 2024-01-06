@@ -10,7 +10,6 @@ import { faBarsStaggered, faCircleUser } from '@fortawesome/free-solid-svg-icons
         </div>   
         <FontAwesomeIcon className='side-bar-icon' icon={faBarsStaggered} />
         </div>
-
     )
   }
 
