@@ -1,0 +1,16 @@
+.brand-name{
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+}
+
+.nav-bar{
+    display: flex;
+    height: 100px;
+    justify-content:  space-around;
+    align-items: center;
+}
+.user-icon, .side-bar-icon{
+    font-size:30px;
+    color:black;
+}
