@@ -3,7 +3,7 @@ import '../styles/Navbar.css'
 import { faBarsStaggered, faCircleUser } from '@fortawesome/free-solid-svg-icons'
   function Navbar(){
     return (
-        <div className='nav-bar'> 
+        <div className='nav-bar z-50'> 
         <FontAwesomeIcon className='user-icon' icon={faCircleUser} />
         <div className ="brand-name">
             CIVIC

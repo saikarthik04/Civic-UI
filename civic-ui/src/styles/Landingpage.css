@@ -1,0 +1,30 @@
+
+.main-hero-section{
+    height: 100vh;
+    border-bottom: 1px solid #ffffff;
+}
+.hero-img {
+width: 100%;
+height: 100%;
+object-fit: cover;
+object-position: 1pt;
+}
+.section-1 {
+}
+/* .section-1 h1{
+    font-size: 100px;
+    text-transform: uppercase;
+}
+li{
+    list-style: none;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+    object-position: 1pt;
+} */
+/* .cat-items{
+    display: flex;
+} */
